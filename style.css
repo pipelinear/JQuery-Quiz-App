@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background-image: url("Shanghai_movie.gif");
+}
+
+h1 {
+  text-align: center;
+	background-color: darkgray
+}
+
+h2 {
+	text-align: center;
+	background-color: aquamarine
+}
+h3 {
+	text-align: center;
+	background-color: aquamarine
+}
+
+p {
+  font-size: 150%;
+  background-color: slategray;
+  padding: 10px;
+  width: 300px;
+  margin: 10px auto;
+}
+
+#q2,
+#q3,
+#kobe,
+#submit {
+  display: none;
+}
+
+#kobe {
+  width: 700px;
+  margin: 20px auto;
+}
